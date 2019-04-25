@@ -1,0 +1,202 @@
+{
+	"pages": [
+		// pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/tabBar/API/API",
+			"style": {
+				"navigationBarTitleText": "实用接口",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/tabBar/template/template",
+			"style": {
+				"navigationBarTitleText": "查询",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+		}, {
+			"path": "pages/tabBar/extUI/extUI",
+			"style": {
+				"navigationBarTitleText": "列表",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSize": "22px",
+							"color": "#999999"
+						}]
+					}
+				}
+			}
+		},
+
+		
+		
+		
+		//newAddOkayApi
+		{
+			"path": "pages/API/pinyin/pinyin",
+			"style": {
+				"navigationBarTitleText": "汉字拼音转换"
+			}
+		},
+		{
+			"path": "pages/API/QrCode/QrCode",
+			"style": {
+				"navigationBarTitleText": "二维码模块"
+			}
+		},
+		{
+			"path": "pages/API/BarCode/BarCode",
+			"style": {
+				"navigationBarTitleText": "条形码模块"
+			}
+		},
+		{
+			"path": "pages/API/Avatar/Avatar",
+			"style": {
+				"navigationBarTitleText": "随机头像模块"
+			}
+		},
+		{
+			"path": "pages/API/IP/IP",
+			"style": {
+				"navigationBarTitleText": "IP地址归属"
+			}
+		},
+		{
+			"path": "pages/API/Joke/Joke",
+			"style": {
+				"navigationBarTitleText": "每日一笑"
+			}
+		},
+		{
+			"path": "pages/API/Common_Address/Common_Address",
+			"style": {
+				"navigationBarTitleText": "全国地址接口"
+			}
+		},
+		{
+			"path": "pages/API/Common_University/Common_University",
+			"style": {
+				"navigationBarTitleText": "全国大学接口"
+			}
+		},
+		{
+			"path": "pages/API/Common_Nickname/Common_Nickname",
+			"style": {
+				"navigationBarTitleText": "随机昵称"
+			}
+		},
+		{
+			"path": "pages/API/Common_Password/Common_Password",
+			"style": {
+				"navigationBarTitleText": "随机密码"
+			}
+		},
+		{
+			"path": "pages/API/Common_Faker/Common_Faker",
+			"style": {
+				"navigationBarTitleText": "模拟数据"
+			}
+		},
+		{
+			"path": "pages/API/Common_Bank/Common_Bank",
+			"style": {
+				"navigationBarTitleText": "随机银行卡信息"
+			}
+		},
+		{
+			"path": "pages/API/Common_IDCard/Common_IDCard",
+			"style": {
+				"navigationBarTitleText": "随机身份证号码信息"
+			}
+		},
+		{
+			"path": "pages/API/Common_Date/Common_Date",
+			"style": {
+				"navigationBarTitleText": "日期查询"
+			}
+		},
+		{
+			"path": "pages/API/Music/Music",
+			"style": {
+				"navigationBarTitleText": "音乐搜索器"
+			}
+		},
+		{
+			"path": "pages/API/Common_Weather/Common_Weather",
+			"style": {
+				"navigationBarTitleText": "气象云图"
+			}
+		},
+		{
+			"path": "pages/API/Common_Weather_LiveWeather/Common_Weather_LiveWeather",
+			"style": {
+				"navigationBarTitleText": "地区实时天气状况"
+			}
+		},
+		{
+			"path": "pages/API/Common_Weather_WeekWeather/Common_Weather_WeekWeather",
+			"style": {
+				"navigationBarTitleText": "地区未来一周天气状况"
+			}
+		}
+		
+		
+
+
+		
+	],
+	
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "Hello uniapp",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"mp-alipay": {
+			"titleBarColor": "#FFFFFF"
+		}
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#007AFF",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list": [
+			{
+				"pagePath": "pages/tabBar/API/API",
+				"iconPath": "static/api.png",
+				"selectedIconPath": "static/apiHL.png",
+				"text": "接口"
+			},
+			{
+				"pagePath": "pages/tabBar/extUI/extUI",
+				"iconPath": "static/extui.png",
+				"selectedIconPath": "static/extuiHL.png",
+				"text": "列表"
+			}, {
+				"pagePath": "pages/tabBar/template/template",
+				"iconPath": "static/template.png",
+				"selectedIconPath": "static/templateHL.png",
+				"text": "搜索"
+			}
+		]
+	} 
+}

@@ -1,0 +1,7 @@
+id,uuid,add_time,update_time,ext_data,image,title,originalPrice,favourPrice,tip
+1,,2019-04-16 23:20:45,NULL,NULL,https://img-cdn-qiniu.dcloud.net.cn/uploads/example/product1.jpg,Apple iPhone X 256GB 深空灰色 移动联通电信4G手机,127,127,自营
+2,,2019-04-16 23:21:15,NULL,NULL,https://img-cdn-qiniu.dcloud.net.cn/uploads/example/product2.jpg,Apple iPad 平板电脑 2018年新款9.7英寸,127,127,优惠
+3,,2019-04-16 23:21:48,NULL,NULL,https://img-cdn-qiniu.dcloud.net.cn/uploads/example/product3.jpg,Apple MacBook Pro 13.3英寸笔记本电脑（2017款Core i5处理器/8GB内存/256GB硬盘 MupxT2CH/A）,127,127,秒杀
+4,,2019-04-16 23:22:20,NULL,NULL,https://img-cdn-qiniu.dcloud.net.cn/uploads/example/product4.jpg,Kindle Paperwhite电纸书阅读器 电子书墨水屏 6英寸wifi 黑色,127,127,秒杀
+5,,2019-04-16 23:22:49,NULL,NULL,https://img-cdn-qiniu.dcloud.net.cn/uploads/example/product5.jpg,微软（Microsoft）新Surface Pro 二合一平板电脑笔记本 12.3英寸（i5 8G内存 256G存储）,127,127,优惠
+6,,2019-04-16 23:23:19,NULL,NULL,https://img-cdn-qiniu.dcloud.net.cn/uploads/example/product6.jpg,Apple Watch Series 3智能手表（GPS款 42毫米 深空灰色铝金属表壳 黑色运动型表带 MQL12CH/A）,127,127,自营

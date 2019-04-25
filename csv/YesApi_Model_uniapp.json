@@ -1,0 +1,57 @@
+{
+    "model_name": "uniapp",
+    "model_desc": "给uniapp做测试",
+    "img_url": "",
+    "fields": [
+        {
+            "id": "e9cc9a7788674c4a84fcc9fc50c40191",
+            "field_name": "image",
+            "field_type": "varchar",
+            "field_length": "100",
+            "field_default": "",
+            "field_is_null": "1",
+            "field_index": "no",
+            "field_desc": "图片链接"
+        },
+        {
+            "id": "4e4aa31822087b34c7ab1a3cdbfbe53b",
+            "field_name": "title",
+            "field_type": "varchar",
+            "field_length": "256",
+            "field_default": "",
+            "field_is_null": "1",
+            "field_index": "no",
+            "field_desc": "标题"
+        },
+        {
+            "id": "d866200ad6d01d8c06392e2de548b1b6",
+            "field_name": "originalPrice",
+            "field_type": "tinyint",
+            "field_length": null,
+            "field_default": "",
+            "field_is_null": "1",
+            "field_index": "no",
+            "field_desc": "原价"
+        },
+        {
+            "id": "f161b55c3ad3b25086106dd56f6c5ae7",
+            "field_name": "favourPrice",
+            "field_type": "tinyint",
+            "field_length": null,
+            "field_default": "",
+            "field_is_null": "1",
+            "field_index": "no",
+            "field_desc": "特价"
+        },
+        {
+            "id": "f544d376a49a832e0b6af7d0b03378cc",
+            "field_name": "tip",
+            "field_type": "varchar",
+            "field_length": "50",
+            "field_default": "",
+            "field_is_null": "1",
+            "field_index": "no",
+            "field_desc": "tip"
+        }
+    ]
+}
