@@ -4,7 +4,7 @@
 ## 首先下载源码
 https://github.com/yesapicn/yesapi-uniapp
 
-从git上面拿下来的代码用HBuilder打开，会看的如下画面![在这里插入图片描述](https://img-blog.csdnimg.cn/20190425135643365.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjkzMjM2OQ==,size_16,color_FFFFFF,t_70)
+从git上面拿下来的代码用HBuilder打开，会看到如下画面![在这里插入图片描述](https://img-blog.csdnimg.cn/20190425135643365.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjkzMjM2OQ==,size_16,color_FFFFFF,t_70)
 
 ## 第二步配置参数
 
